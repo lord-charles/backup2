@@ -1,0 +1,11 @@
+{
+  "projectName": "jumiafoods",
+  "meta": {
+    "type": "backend"
+  },
+  "backend": {
+    "platform": "node16"
+  },
+  "hash": "1ce8fed0",
+  "domain": "charles_expressRestApi.mdbgo.io"
+}
